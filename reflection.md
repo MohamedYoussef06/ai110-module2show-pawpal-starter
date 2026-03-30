@@ -5,7 +5,15 @@
 **a. Initial design**
 
 - Briefly describe your initial UML design.
+    The UML design will be created to link the user and pet to each other. The user will have premissions such as to add the pet, create tasks for the pet, and input their daily tasks for their pet to be used as data when creating a basic daily schedule
 - What classes did you include, and what responsibilities did you assign to each?
+    Classes and Responsbilities include:
+        1. addPet - Adds all the information that is necssary for a pet
+        2. Createtask - allows the user to create a task
+        3. Switchprofile - the user will be allowed to add different pets if they have more then one and see each schedule for each pet
+        4. Createschedule - Takes the inputted tasks data from the user and creates a schedule to fit best with their time 
+        5. Checktasks - Updates and outputs the lateset schedule for today
+    
 
 **b. Design changes**
 
