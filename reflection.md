@@ -28,7 +28,9 @@ No
 **a. Constraints and priorities**
 
 - What constraints does your scheduler consider (for example: time, priority, preferences)?
+    My scheduler considered priority and time for constraints
 - How did you decide which constraints mattered most?
+    I believe that the priority constraints mattered most because it showed which task was imporatnt to finish first
 
 **b. Tradeoffs**
 
@@ -42,11 +44,14 @@ No
 **a. How you used AI**
 
 - How did you use AI tools during this project (for example: design brainstorming, debugging, refactoring)?
+    I used claude code during this project for brainstorming and debugging as well as creating the core functionality and logic in my app
 - What kinds of prompts or questions were most helpful?
+    The prompts that were most helpful was when I would have claude confirming the relationship between all the files to make sure there is no logic bottlenecks
 
 **b. Judgment and verification**
 
 - Describe one moment where you did not accept an AI suggestion as-is.
+    One moment I did not accept an AI suggestion as-is was when claude tries to run a method by itself with the bash method.
 - How did you evaluate or verify what the AI suggested?
 
 ---
@@ -70,11 +75,14 @@ No
 **a. What went well**
 
 - What part of this project are you most satisfied with?
+    I very satisifed with how the scheduler worked and the relationships between the owner and pets.
 
 **b. What you would improve**
 
 - If you had another iteration, what would you improve or redesign?
+    If I had another iteration, I would redesign the interface and how it looked
 
 **c. Key takeaway**
 
 - What is one important thing you learned about designing systems or working with AI on this project?
+    One important thing I learned about designing systems was how important the UML is when creating a system with data.
